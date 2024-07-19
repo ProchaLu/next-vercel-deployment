@@ -101,6 +101,7 @@ pnpm playwright test
 
 - Fly.io
 - Docker
+- Vercel
 
 ## Authentication
 
