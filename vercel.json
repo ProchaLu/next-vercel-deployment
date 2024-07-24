@@ -1,3 +1,4 @@
 {
-  "installCommand": "pnpm install && pnpm migrate up"
+ "buildCommand": "pnpm build && pnpm migrate up",
+ "installCommand": "pnpm install"
 }
